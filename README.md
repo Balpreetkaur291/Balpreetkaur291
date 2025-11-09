@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I’m a Master’s student in Computer Science at the University of Massachusetts Amherst. I enjoy turning ideas into working products and building reliable software and ML/LLM projects.
 \
 Previously: **SWE Intern @ Amazon Web Services (AWS)** , **ML Engineer @ Expedia Group**  
-Actively seeking **New Grad 2026** roles in **Software / ML-AI / Data Science**.
+Actively seeking **New Grad 2026** roles in **Software Engineering / ML-AI / Data Science**.
 
 ---
 
