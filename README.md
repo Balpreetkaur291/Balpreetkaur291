@@ -79,6 +79,7 @@ Actively seeking **New Grad 2026** roles in **Software Engineering / ML-AI / Dat
 <!-- Optional quick links; keep if you want tiny CTAs without adding text -->
 <p align="left">
   <a href="https://www.linkedin.com/in/balpreet-kaur-1423aa1a3/"><img src="https://img.shields.io/badge/LinkedIn-Balpreet%20Kaur-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://balpreetkaur291.github.io"><img src="https://img.shields.io/badge/Portfolio-balpreetkaur291.github.io-4F46E5?logo=github&logoColor=white" /></a>
 </p>
 
 
