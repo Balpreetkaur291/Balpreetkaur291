@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi, I'm Balpreet 👋</h1>
 
-\
-Previously: **SWE Intern @ Amazon Web Services (AWS)** , **ML Engineer @ Expedia Group**  
-Actively seeking **New Grad 2026** roles in **Software Engineering / ML-AI / Data Science**.
+
 
 ---
 
